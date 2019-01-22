@@ -1,0 +1,52 @@
+$breakpoint-m: 48em;
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+}
+
+.col-1 {
+  grid-column: span 1;
+}
+
+.col-2 {
+  grid-column: span 2;
+}
+
+.col-3 {
+  grid-column: span 3;
+}
+
+
+.col-1\@m {
+  @media (min-width: $breakpoint-m) {
+    grid-column: span 1;
+  }
+}
+
+.col-2\@m {
+  @media (min-width: $breakpoint-m) {
+    grid-column: span 2;
+  }
+}
+
+.col-3\@m {
+  @media (min-width: $breakpoint-m) {
+    grid-column: span 3;
+  }
+}
+
+.grid__item {
+  padding: 1em;
+  background: #efefef;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+section:not(:first-child) {
+  margin-top: 3em;
+}
