@@ -16,7 +16,5 @@
     "url": "https://github.com/smazzin/dmc-construction/issues"
   },
   "homepage": "https://github.com/smazzin/dmc-construction#readme",
-  "devDependencies": {
-    "bulma": "^0.7.2"
-  }
+  "devDependencies": {}
 }
