@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="google-site-verification" content="Af6TWpN8sjIQQT-Aol2y0GXfsi0hid4rikbu2FgjSs0" />
+    <!-- noindex meta -->
+    {{ $default_noindex_kinds := slice "section" "taxonomy" "taxonomyTerm" }}
+    {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
+    {{ $is_noindex_true := and (isset .Params "noindex") .Params.noindex }}
+    {{ if or (in $noindex_kinds .Kind) ($is_noindex_true) }}
+    <meta name="robots" content="noindex">
+    {{ end }}
+    <title>{{ .Title }}</title>
+    <meta name="description" content="{{ .Description }}">
+    <meta property="og:description" content="{{ .Description }}">
+    <link rel="canonical" href="{{ .URL | relURL }}">
+    <!-- CSS -->
+    {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+    {{ $style := resources.Get "scss/main.scss" | toCSS $options | resources.PostCSS }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+<div id="nav-background">
+    <div id="nav-container">
+        <header id="nav-header">
+            <a href="{{ .Site.BaseURL }}">
+                <img id="nav-logo" width="250" src="{{ .Site.BaseURL }}images/elevate-logo.png" alt="{{ .Site.Title }}">
+            </a>
+            <div id="nav-menu-button">MENU</div>
+        </header>
+        {{ partial "nav.html" . }}
+    </div>
+</div>
+
+<body class='page {{ block "body_classes" . }}{{ end }}'>
+    
+        {{ block "main" . }}
+        {{ end }}
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+{{ block "nav_js" . }}
+{{ end }}
+{{ partial "footer" . }}
+<script type="text/javascript">
+    (function () {
+
+            var navButton = document.querySelector("#nav-menu-button");
+            var navUl = document.querySelector(".nav-ul");
+
+            function toggleMobileMenu() {
+                navUl.classList.toggle("hide-ul");
+            }
+
+            navButton.onclick = toggleMobileMenu;
+        }());
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132327420-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-132327420-1');
+</script>
+</body>
+</html>
