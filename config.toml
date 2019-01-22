@@ -22,20 +22,21 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [blackfriday]
 hrefTargetBlank = true
 
-[[menu.main]]
-name = "Home"
-weight = 1
-identifier = "Home"
-url = "/"
 
 [[menu.main]]
 name = "Services"
-weight = 2
+weight = 1
 identifier = "Services"
-url = "#"
+url = "services"
+
+[[menu.main]]
+name = "About"
+weight = 2
+identifier = "About"
+url = "about"
 
 [[menu.main]]
 name = "Contact us"
-weight = 5
+weight = 3
 identifier = "Contact Us"
 url = "contact-us"
