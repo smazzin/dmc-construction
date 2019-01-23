@@ -4,6 +4,15 @@
 }
 
 .nav-inner {
+    padding: .5rem 1rem;
+    text-align: center;
+}
+
+.logo span {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1rem .3rem;
     text-align: center;
 }
 
@@ -14,6 +23,13 @@
         justify-content: space-between;
         align-items: center;
         padding: .5rem 1rem;
+        max-width: 80em;
+        margin: 0 auto;
+    }
+
+    .logo span {
+        justify-content: space-between;
+        text-align: left;
     }
 }
 
