@@ -22,12 +22,15 @@
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
 
-        <header>
-            <a href="{{ .Site.BaseURL }}">
-                <img id="logo" width="250" src="{{ .Site.BaseURL }}images/dmc-logo.png" alt="{{ .Site.Title }}">
-            </a>
+        <header class="nav-wrapper">
+            <div class="nav-inner">
+                <a class="site-logo" href="{{ .Site.BaseURL }}">
+                    <img id="logo" width="250" src="{{ .Site.BaseURL }}images/dmc-logo.png" alt="{{ .Site.Title }}">
+                </a>
+                {{ partial "nav.html" . }}
+            </div>
         </header>
-        {{ partial "nav.html" . }}
+        
 
         {{ block "main" . }}
         {{ end }}

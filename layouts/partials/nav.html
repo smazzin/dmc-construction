@@ -1,5 +1,5 @@
-<nav role="navigation">
-  <ul>
+<nav class="main-nav" role="navigation">
+  <ul class="menu">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
         <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
@@ -9,5 +9,8 @@
           </a>
         </li>
     {{ end }}
+    <li class="contact">
+      <a href="/contact">Contact</a>
+    </li>
   </ul>
 </nav>

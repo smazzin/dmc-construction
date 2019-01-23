@@ -1,0 +1,35 @@
+.nav-wrapper {
+    background-color: $gray;
+    color: $white;
+}
+
+.nav-inner {
+    text-align: center;
+}
+
+@media (min-width: $breakpoint-s) {
+    .nav-inner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding: .5rem 1rem;
+    }
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+
+    & a {
+        color: $white;
+    }
+
+    & li {
+        margin: 0 .5rem;
+    }
+}
