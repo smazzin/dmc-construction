@@ -4,10 +4,20 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 // Update Bulma's global variables
 $family-sans-serif: "Nunito", sans-serif;
+//Set font sizes
+$baseline: 2.5rem;
 
-body {
-    font-family: $family-sans-serif;
-}
+$minScreen: 20rem;
+$maxScreen: 50rem;
+$minFont: .8rem;
+$maxFont: 1.111rem;
+
+$h1: 3rem;
+$h2: 1.5rem;
+$h3: 1.25rem;
+$h4: 1rem;
+$h5: 1rem;
+
 
 // Set breakpoints
 //768px
@@ -16,14 +26,15 @@ $breakpoint-m: 48em;
 $breakpoint-s: 37.5em;
 
 // Set your brand colors
-$gray:#33495E;
-$dark-gray:#283747;
-$light-gray:#ADB6BF;
-$lighter-gray:#F8F9F9;
-$green: #239954;
-$white: #fff;
+$gray:          #33495E;
+$dark-gray:     #283747;
+$light-gray:    #ADB6BF;
+$lighter-gray:  #F8F9F9;
+$green:         #239954;
+$white:         #fff;
 
 @import "imports/destyle",
+        "imports/typography",
         "imports/grid",
         "imports/nav",
         "imports/styles";

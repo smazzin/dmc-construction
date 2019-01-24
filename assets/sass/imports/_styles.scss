@@ -4,4 +4,36 @@
     text-align: center;
     padding: .5rem 1.5rem;
 }
-//
+
+
+.hero {
+  //background-image: url(../../../images/top-hero.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../../images/top-hero.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
+// color overlay
+
+.hero-inner {
+    color: $white;
+    max-width: 80vw;
+    margin: auto;
+    text-align: center;
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+    & h1 {
+        font-weight: 400;
+        margin-bottom: .5rem;
+    }
+
+    & p {
+        font-size: 1.25rem;
+    }
+}
