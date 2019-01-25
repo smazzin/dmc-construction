@@ -1,0 +1,79 @@
+footer {
+    background: $gray;
+    padding: 4rem 4rem 1rem;
+    color: $white;
+}
+
+.footer__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1.5rem;
+    justify-content: space-evenly;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+.border {
+    border-right: 2px solid $green;
+}
+
+.inner__container {
+    max-width: 68rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media (min-width: $breakpoint-s) {
+.inner__container {
+    text-align: left;
+}
+}
+
+.contact__name {
+    margin-bottom: 0;
+}
+
+.start {
+    padding-right: 2.5rem;
+    text-align: right;
+}
+
+.phone {
+    & svg {
+        width: 1.3rem;
+        color: $green;
+    }
+    & span, a {
+        display: block;
+    }
+
+}
+
+.end {
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.email {
+    & svg {
+        width: 2rem;
+        color: $green;
+    }
+    & span, a {
+        display: block;
+    }
+}
+
+
+.copyright {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 2px solid $green;
+    & svg {
+        width: 1.5rem;
+        color: $green;
+    }
+    & strong {
+        color: $green;
+    }
+}

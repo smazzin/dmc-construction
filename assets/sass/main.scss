@@ -15,8 +15,8 @@ $maxFont: 1.111rem;
 $h1: 3rem;
 $h2: 1.50rem;
 $h3: 1.25rem;
-$h4: 1rem;
-$h5: 1rem;
+$h4: 1.25rem;
+$h5: 1.25rem;
 
 
 // Set breakpoints
@@ -39,4 +39,5 @@ $white:         #fff;
         "imports/typography",
         "imports/grid",
         "imports/nav",
-        "imports/styles";
+        "imports/styles",
+        "imports/footer";
