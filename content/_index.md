@@ -9,4 +9,4 @@ image: images/top-hero.jpg
 
 # BIG OR SMALL <br> JOBS DONE RIGHT
 
-we have the experience and resources you can trust
+WE HAVE THE EXPERIENCE AND RESOURCES YOU CAN TRUST

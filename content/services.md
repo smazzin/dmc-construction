@@ -1,0 +1,12 @@
+---
+title: "Services"
+description: ""
+date: 2019-01-24T20:07:53-08:00
+draft: false
+layout: single-hero
+image: images/services-hero.jpg
+---
+
+# Services
+
+DUNCAN MC CONSTRUCTION, LLC DOES SMALL REMODELS, HOME REPAIRS, AS WELL AS HANDMANY SERVICES.

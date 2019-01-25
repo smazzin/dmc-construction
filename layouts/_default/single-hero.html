@@ -1,0 +1,27 @@
+{{ define "body_classes" }}default{{ end }}
+{{ define "main" }}
+<!--Hero-->
+
+<!--Content-->
+<section class="services-hero">
+    <div class="hero-inner">
+        {{ .Content }}
+    </div>
+</section>
+
+<section class="services-page">
+    <div class="container">
+        {{ range $.Site.Data.HomePageServices }}
+        <div class="grid m-5">
+            <div class="col-2@m col-6">
+                <img class="card__img" src="/images{{ .image}}" alt="{{ .title }}">
+            </div>
+            <div class="col-4@m col-6">
+                <h3 class="card__title">{{ .title }}</h3>
+                <p class="card__text">{{ .description }}</p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
