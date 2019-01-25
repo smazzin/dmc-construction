@@ -5,7 +5,7 @@
 // Update Bulma's global variables
 $family-sans-serif: "Nunito", sans-serif;
 //Set font sizes
-$baseline: 2.5rem;
+$baseline: 1.5rem;
 
 $minScreen: 20rem;
 $maxScreen: 50rem;
@@ -13,7 +13,7 @@ $minFont: .8rem;
 $maxFont: 1.111rem;
 
 $h1: 3rem;
-$h2: 1.5rem;
+$h2: 1.50rem;
 $h3: 1.25rem;
 $h4: 1rem;
 $h5: 1rem;
@@ -24,6 +24,8 @@ $h5: 1rem;
 $breakpoint-m: 48em;
 //600px
 $breakpoint-s: 37.5em;
+
+$container: 80rem;
 
 // Set your brand colors
 $gray:          #33495E;
