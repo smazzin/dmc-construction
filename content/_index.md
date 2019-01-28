@@ -1,6 +1,6 @@
 ---
-title: Duncan MC Construction, LLC
-description: Elevate Heating & Cooling, LLC offers HVAC service in North Plains, OR. Contact an HVAC contractor for AC repair, furnace installation & fan coil tune
+title: Duncan MC Construction, LLC | Construction Contractor, Roseburg Oregon 97471
+description: Duncan MC Construction, LLC offers 14 years of experience in new construction and remodeling of both residential and small commercial structures as well as simple handyman fix it work.
 date: 2018-12-26T07:59:10-08:00
 draft: false
 layout: single

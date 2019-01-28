@@ -2,16 +2,19 @@
   {
     "title": "SMALL REMODELS",
     "description": "Looking to remodel that kitchen or bathroom? Duncan MC Construction can help. Call and tell us about it. We love to make places better.",
-    "image": "/home-remodels.jpg"
+    "image": "/home-remodels.jpg",
+    "alt": "Duncan MC Construction LLC, Small Remodels"
   },
   {
     "title": "HOME REPAIR",
     "description": "We provide a wide range of home repair services. From new siding, flooring, and changing out appliances. We are just a phone call away to help you with your current or future projects.",
-    "image": "/home-repair-services"
+    "image": "/home-repair-services.jpg",
+    "alt": "Duncan MC Construction LLC, Home Repairs"
   },
   {
     "title": "HANDYMAN SERVICES",
     "description": "Big or small jobs, we tackle them all. Whether it’s installing a light fixture, building a new deck, or replacing a handrail. We’ll go the extra mile to ensure the result is extraordinary.",
-    "image": "/handyman-services.jpg"
+    "image": "/handyman-services.jpg",
+    "alt": "Duncan MC Construction LLC, Handyman Services"
   }
 ]

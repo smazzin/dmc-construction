@@ -9,6 +9,10 @@
     margin: 2rem 5rem;
 }
 
+.mx-auto {
+    margin: auto;
+}
+
 .hero {
   //background-image: url(../../../images/top-hero.jpg);
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../../images/top-hero.jpg);
@@ -126,4 +130,10 @@
 
 .handshake svg {
     width: 8rem;
+}
+
+.profile__pic, .about__dmc {
+    display: flex;
+    align-items: center;
+    margin: auto;
 }

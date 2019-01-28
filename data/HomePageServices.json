@@ -2,16 +2,19 @@
     {
         "title": "Remodels",
         "description": "Whether you’re looking to update a bathroom or your kitchen, Duncan MC Constrcution has got you covered. Call and tell us about your project.",
-        "image": "/home-remodels.jpg"
+        "image": "/home-remodels.jpg",
+        "alt": "Duncan MC Construction LLC, Small Remodels"
     },
     {
         "title": "Home Repairs",
         "description": "While you might not need a full remodel, but need a few repairs done around your house. Need a new deck? New windows? Replace a handrail or ramp? Duncan MC Construction has you covered.",
-        "image": "/home-repair-services.jpg"
+        "image": "/home-repair-services.jpg",
+        "alt": "Duncan MC Construction LLC, Home Repairs"
     },
     {
         "title": "Handyman Services",
         "description": "From home repair, replacement and refinishing jobs, Duncan MC Construction has the expertise and resources to get your job done right.",
-        "image": "/handyman-services.jpg"
+        "image": "/handyman-services.jpg",
+        "alt": "Duncan MC Construction LLC, Handyman Services"
     }
 ]
