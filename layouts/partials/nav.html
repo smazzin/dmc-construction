@@ -10,7 +10,8 @@
         </li>
     {{ end }}
     <li>
-      <a class="btn contact" href="/contact">Contact</a>
+      {{/*  <a class="btn contact" href="/contact">Contact</a>  */}}
+       <a class="btn contact" href="tel:{{ .Site.Data.contact.phone }}" title="Contact Duncan MC Construction">Contact</a>
     </li>
   </ul>
 </nav>
