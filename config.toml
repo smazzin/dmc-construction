@@ -5,7 +5,7 @@ title = "DUNCAN MC CONSTRUCTION, LLC"
 contentDir = "content"
 
 languageLang = "en"
-copyright = "Copyright &copy; {year} Duncan Mc Construction, LLC, all rights reserved."
+copyright = "Copyright &copy; {year} Duncan Mc Construction, LLC, all rights reserved"
 permalinks = "/:slug/"
 
 preserveTaxonomyNames = false
