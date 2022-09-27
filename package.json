@@ -16,9 +16,8 @@
     "url": "https://github.com/smazzin/dmc-construction/issues"
   },
   "homepage": "https://github.com/smazzin/dmc-construction#readme",
-  "devDependencies": {},
   "dependencies": {
     "autoprefixer": "^9.4.6",
-    "postcss-cli": "^6.1.1"
+    "postcss-cli": "^6.1.3"
   }
 }
