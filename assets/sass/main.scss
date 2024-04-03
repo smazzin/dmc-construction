@@ -26,6 +26,7 @@ $breakpoint-m: 48em;
 $breakpoint-s: 37.5em;
 
 $container: 80rem;
+$container-small: 60rem;
 
 // Set your brand colors
 $gray:          #33495E;
@@ -40,4 +41,5 @@ $white:         #fff;
         "imports/grid",
         "imports/nav",
         "imports/styles",
+        "imports/contact-form",
         "imports/footer";

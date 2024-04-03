@@ -9,6 +9,10 @@
     margin: 2rem 5rem;
 }
 
+.mb-5 {
+    margin-bottom: 5rem;
+}
+
 .mx-auto {
     margin: auto;
 }
@@ -86,6 +90,18 @@
     }
 }
 
+.contact__section {
+    background-color: $dark-gray;
+    color: $white;
+    text-align: center;
+    padding-right: 5rem;
+    margin-left: 5rem;
+
+    & .misc__text1 {
+        padding: 2rem;
+    }
+}
+
 .about__misc {
     background-color: $dark-gray;
     color: $white;
@@ -137,3 +153,12 @@
     align-items: center;
     margin: auto;
 }
+
+// Google maps
+iframe {
+    display: block;
+    width: 90%;
+    max-width: 60rem;
+    height: 25em;
+    margin: 2rem auto;
+  }

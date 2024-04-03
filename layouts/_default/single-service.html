@@ -1,0 +1,29 @@
+
+{{ define "body_classes" }}single-service{{ end }}
+{{ define "main" }}
+<!--Hero-->
+
+<!--Content-->
+<section class="container-small">
+    <div class="grid m-5">
+        <div class="col-6">
+            <h1 class="text__center">{{.Params.heading}}</h1>
+        </div>
+        <div class="col-6">
+            {{ .Content }}
+        </div>
+    </div>
+	</section>
+	<div class="grid mb-5">
+		<div class="col-6">
+				<div class="contact__section">
+					<div class="misc__text1">
+							<h4>CONTACT US</h4>
+							<a href="tel:{{ .Site.Data.contact.phone}}"><u>{{ .Site.Data.contact.phone}}</u></a>
+							<p>{{ .Site.Data.about.Home.contactText}}</p>
+					</div>
+				</div>
+		</div>
+</div>
+
+{{ end }}

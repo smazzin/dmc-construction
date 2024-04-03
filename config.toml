@@ -22,6 +22,10 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [blackfriday]
 hrefTargetBlank = true
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.main]]
 name = "Services"

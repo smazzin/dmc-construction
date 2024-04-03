@@ -44,7 +44,13 @@
                         <div class="card">
                         <img class="card__img" src="images{{ .image}}" alt="{{ .alt }}">
                         <div class="card__body">
-                            <h3 class="card__title">{{ .title }}</h3>
+                            <h3 class="card__title">
+                                {{ if .link }}
+                                    <a href="{{ .link }}">{{ .title }}</a>
+                                {{ else }}
+                                    {{ .title }}
+                                {{ end }}
+                            </h3>
                             <p class="card__text">{{ .description }}</p>
                         </div>
                     </div>

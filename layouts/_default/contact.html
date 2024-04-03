@@ -1,7 +1,23 @@
-{{ define "body_classes" }}default contact{{ end }}
+{{ define "body_classes" }}contact{{ end }}
 
 {{ define "main" }}
 
-    {{ .Content }}
+<!--Content-->
+<section class="container">
+    <div class="grid m-5">
+        <div class="col-6">
+            <h1 class="text__center">{{.Params.heading}}</h1>
+        </div>
+        <div class="col-3@m col-6">
+            {{ .Content }}
+            {{ partial "contact-form.html" }}
+        </div>
+        <div class="col-3@m col-6">
+            <div class="google-maps">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11630.454673306469!2d-123.3397439!3d43.2175918!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c42397e5cc9bd1%3A0xe744a215aeec9941!2sDuncan%20MC%20Construction%2C%20LLC!5e0!3m2!1sen!2sus!4v1712180769713!5m2!1sen!2sus" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{ end }}

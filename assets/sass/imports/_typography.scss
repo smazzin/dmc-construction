@@ -40,6 +40,12 @@ body {
     color: $dark-gray;
 }
 
+.fancy__link {
+	color: $green;
+	text-decoration: underline;
+	transition: color 0.3s ease;
+}
+
 p{	
 	//line-height: $baseline;
 	margin-bottom: $baseline;
