@@ -43,29 +43,17 @@
 </head>
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMJ8JCL" height="0" width="0"
-        style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-        <header class="nav-wrapper">
-            <div class="nav-inner">
-                <div class="logo">
-                    <a class="site-logo" href="{{ .Site.BaseURL }}">
-                        <img id="logo" width="250" src="{{ .Site.BaseURL }}/images/dmc-logo.png" alt="{{ .Site.Title }}">
-                    </a>
-                    <span>{{ .Site.Data.contact.licensed }}</span>
-                </div>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMJ8JCL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {{ partial "header.html" . }}
+    
 
-                {{ partial "nav.html" . }}
-            </div>
-        </header>
-        
+    {{ block "main" . }}
+    {{ end }}
 
-        {{ block "main" . }}
-        {{ end }}
-
-{{ block "nav_js" . }}
-{{ end }}
-{{ partial "footer" . }}
+    {{ block "site/scripts" . }}{{ partial "site/scripts.html" . }}{{ end }}
+    {{ partial "footer" . }}
 </body>
 </html>

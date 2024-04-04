@@ -6,6 +6,20 @@
     color: $white;
 }
 
+.mobile-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    --font-weight: 500;
+    // font-size: var(--fs-300);
+    text-decoration: none;
+    line-height: 1;
+    padding: 1em 0;
+    cursor: pointer;
+    border-radius: 0;
+  }
+
 .m-5 {
     margin: 2rem 5rem;
 }
@@ -20,6 +34,15 @@
 
 .mx-auto {
     margin: auto;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bg-gray {
+    background-color: $gray;
 }
 
 .hero {

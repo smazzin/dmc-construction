@@ -22,25 +22,58 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [blackfriday]
 hrefTargetBlank = true
 
+[params.logo]
+mobile = "images/dmc-logo.png"
+mobile_height = "106"
+mobile_width = "250"
+alt = "Duncan MC Construction, LLC"
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
 
 [[menu.main]]
-name = "Services"
+name = "Flooring"
 weight = 1
-identifier = "Services"
-url = "services"
+identifier = "Flooring"
+url = "/flooring-installation/"
 
 [[menu.main]]
-name = "About"
+name = "Hardwood Flooring"
 weight = 2
-identifier = "About"
-url = "about"
+identifier = "Hardwood Flooring"
+url = "/hardwood-flooring"
+parent = "Flooring"
 
-# [[menu.main]]
-# name = "Contact us"
-# weight = 3
-# identifier = "Contact Us"
-# url = "contact-us"
+[[menu.main]]
+name = "Laminate Flooring"
+weight = 3
+identifier = "Laminate Flooring"
+url = "/laminate-flooring"
+parent = "Flooring"
+
+[[menu.main]]
+name = "Vinyl Flooring"
+weight = 4
+identifier = "Vinyl Flooring"
+url = "/vinyl-flooring"
+parent = "Flooring"
+
+[[menu.main]]	
+name = "Home Remodels"
+weight = 5
+identifier = "Home Remodels"
+url = "/bathroom-and-kitchen-remodels"
+
+[[menu.main]]
+name = "Home Repairs"
+weight = 6
+identifier = "Home Repairs"
+url = "/residential-home-repairs"
+
+[[menu.main]]
+name = "Contact Us"
+weight = 7
+identifier = "Contact Us"
+url = "/contact"
