@@ -1,0 +1,22 @@
+{{ define "body_classes" }}landing{{ end }}
+
+{{ define "main" }}
+
+<!--Content-->
+<section class="container">
+    <div class="grid align-items-baseline m-5">
+        <div class="col-6">
+            <h1 class="text__center">{{.Params.heading}}</h1>
+        </div>
+        <div class="col-3@m col-6">
+					{{ .Content }}
+				</div>
+        <div class="col-3@m col-6">
+					<div class="google-maps">
+						{{ partial "request-a-quote-form.html" }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

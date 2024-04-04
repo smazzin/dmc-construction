@@ -1,0 +1,85 @@
+<!-- Change or deletion of the name attributes in the input tag will lead to empty values on record submission-->
+<form class="contact-form form flow"
+	action='https://forms.zohopublic.com/josh117/form/RequestAQuote/formperma/qHka7qWsqNu6GrDu1JooKNQ79-PK2m-nWDQAMTcGJvE/htmlRecords/submit'
+	name='form' id='form' method='POST' accept-charset='UTF-8' enctype='multipart/form-data'>
+	<input type="hidden" name="zf_referrer_name" value=""><!-- To Track referrals , place the referrer name within the " " in the above hidden input field -->
+	<input type="hidden" name="zf_redirect_url" value=""><!-- To redirect to a specific page after record submission , place the respective url within the " " in the above hidden input field -->
+	<input type="hidden" name="zc_gad" value=""><!-- If GCLID is enabled in Zoho CRM Integration, click details of AdWords Ads will be pushed to Zoho CRM -->
+	<p></p>
+	<div class="form-control">
+		<!--Single Line-->
+		<label class="form-label">
+			Full Name
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" name="SingleLine" value="" fieldType=1 maxlength="255"
+		placeholder="First&#x20;name&#x20;&#x2b;&#x20;Last&#x20;name" />
+	</div>
+	<div class="form-control">
+		<!--Email-->
+		<label class="form-label"> Email
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" maxlength="255" name="Email" value="" fieldType=9 placeholder="john&#x40;example.com" />
+	</div>
+	<div class="form-control">
+		<!--Phone-->
+		<label class="form-label"> Phone
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" phoneFormat="1" isCountryCodeEnabled=false
+		maxlength="20" value="" fieldType=11 id="international_PhoneNumber_countrycode" placeholder="541-123-1234" />
+	</div>
+	<div class="form-control">
+		<!--Dropdown-->
+		<label class="form-label">
+			What service are you looking for?
+			<em>*</em>
+		</label>
+		<select class="form-input" name="Dropdown">
+			<option selected="true" value="-Select-">-Select-</option>
+			<option value="Flooring&#x20;installation&#x20;&#x28;FREE&#x20;estimate&#x29;">Flooring installation &#x28;FREE
+				estimate&#x29;</option>
+				<option value="Bathroom&#x20;Remodel&#x20;&#x28;FREE&#x20;estimate&#x29;">Bathroom Remodel &#x28;FREE estimate&#x29;
+				</option>
+				<option value="Kitchen&#x20;Remodel&#x20;&#x28;FREE&#x20;estimate&#x29;">Kitchen Remodel &#x28;FREE estimate&#x29;
+				</option>
+				<option value="Custom&#x20;job">Custom job</option>
+			</select>
+	</div>
+	<div class="form-control">
+		<!--Multi Line-->
+		<label class="form-label"> Please share any additional info we should know
+			<em>*</em>
+		</label>
+		<textarea cols="20" rows="3" class="form-input" name="MultiLine" maxlength="65535"
+		placeholder="The&#x20;more&#x20;detail&#x20;the&#x20;better&#x21;&#x20;square&#x20;footage,&#x20;or&#x20;anything&#x20;else&#x20;that&#x20;can&#x20;help&#x20;us&#x20;better&#x20;serve&#x20;you&#x21;"></textarea>
+	</div>
+	<div class="form-control">
+		<h2 class="mb-0">Address where you need service</h2>
+		<!--Single Line-->
+		<label class="form-label">
+			Street address
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" name="SingleLine1" value="" fieldType=1 maxlength="255" placeholder="123&#x20;main&#x20;street" />
+	</div>
+	<div class="form-control">
+		<!--Single Line-->
+		<label class="form-label">
+			City
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" name="SingleLine2" value="" fieldType=1 maxlength="255" placeholder="Roseburg" />
+	</div>
+	<div class="form-control">
+		<!--Number-->
+		<label class="form-label"> Postal / zip code
+			<em>*</em>
+		</label>
+		<input class="form-input" type="text" name="Number" value="" maxlength="18" placeholder="97471" />
+	</div>
+	<div>
+		<input class="btn" data-type="accent" type="submit" value="Submit">
+	</div>
+</form>
