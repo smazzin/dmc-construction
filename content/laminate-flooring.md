@@ -17,6 +17,7 @@ We provide professional laminate flooring installation services in Roseburg, OR,
 When it comes to laminate flooring installation, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 14 years of experience installing laminate flooring in Roseburg, OR, and the surrounding areas.
 
 We specialize in providing flooring installation services to residential and commercial clients in Roseburg. We also serve the following areas:
+
 - Canyonville
 - Dillard
 - Glide
