@@ -4,7 +4,7 @@ description: Request a quote from Duncan MC Construction, LLC.
 draft: false
 layout: landing
 heading: Request a Quote
-sitemap_exclude: "true"
+sitemap_exclude: true
 ---
 
 Thank you for the opportunity to serve you. Continue filling out the Request a Quote form and we'll be in touch soon!
