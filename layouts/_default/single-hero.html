@@ -17,7 +17,9 @@
                 <img class="card__img" src="/images{{ .image}}" alt="{{ .alt }}">
             </div>
             <div class="col-4@m col-6">
-                <h3 class="card__title">{{ .title }}</h3>
+                <h3 class="card__title">
+                    <a href="{{ .link }}" class="card__link">{{ .title }}</a>
+                </h3>
                 <p class="card__text">{{ .description }}</p>
             </div>
         </div>
