@@ -2,42 +2,42 @@
   {
     "title": "Flooring Installation",
     "description": "Duncan MC Construction has the expertise to install all types of flooring. From hardwood, laminate, tile, engineered wood, and vinyl plank we can help you with your flooring needs.",
-    "link": "/flooring-installation",
+    "link": "/flooring-installation/",
     "image": "/flooring-installation.jpg",
     "alt": "Flooring Installation"
   },
   {
     "title": "Hardwood Flooring",
     "description": "We provide professional hardwood flooring installation services.",
-    "link": "/hardwood-flooring",
+    "link": "/hardwood-flooring/",
     "image": "/hardwood-flooring.jpg",
     "alt": "hardwood flooring"
   },
   {
     "title": "Laminate Flooring",
     "description": "Professional laminate flooring installation services.",
-    "link": "/laminate-flooring",
+    "link": "/laminate-flooring/",
     "image": "/laminate.jpg",
     "alt": "laminate flooring"
   },
   {
     "title": "Vinyl Flooring",
     "description": "Professional luxury vinyl plank flooring installation services.",
-    "link": "/vinyl-flooring",
+    "link": "/vinyl-flooring/",
     "image": "/vinyl-plank.jpg",
     "alt": "vinyl flooring"
   },
   {
     "title": "Residential Remodels",
     "description": "Looking to remodel that kitchen or bathroom? Duncan MC Construction can help.",
-    "link": "/bathroom-and-kitchen-remodels",
+    "link": "/bathroom-and-kitchen-remodels/",
     "image": "/home-remodels.jpg",
     "alt": "Duncan MC Construction LLC, Small Remodels"
   },
   {
     "title": "Residential Home Repair",
     "description": "We provide a wide range of home repair services. From building a new deck, new siding, or flooring. We are just a phone call away to help you with your current or future projects.",
-    "link": "/residential-home-repairs",
+    "link": "/residential-home-repairs/",
     "image": "/home-repair-services.jpg",
     "alt": "Duncan MC Construction LLC, Home Repairs"
   }

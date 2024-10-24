@@ -2,21 +2,21 @@
     {
         "title": "Flooring Installation",
         "description": "Duncan MC Construction has the expertise to install all types of flooring. From hardwood, laminate, tile, carpet tiles, engineered wood, and vinyl plank we can help you with your flooring needs.",
-        "link": "/flooring-installation",
+        "link": "/flooring-installation/",
         "image": "/flooring-installation.jpg",
         "alt": "Flooring Installation"
     },
     {
         "title": "Bathroom & Kitchen Remodels",
         "description": "Whether you're looking to update a bathroom or your kitchen, Duncan MC Constrcution has got you covered. Call and tell us about your project.",
-        "link": "/bathroom-and-kitchen-remodels",
+        "link": "/bathroom-and-kitchen-remodels/",
         "image": "/home-remodels.jpg",
         "alt": "Small Home Remodels"
     },
     {
         "title": "Residential Home Repairs",
         "description": "While you might not need a full remodel, but need a few repairs done around your house. Need a new deck? New windows? Replace a handrail or ramp? Duncan MC Construction has you covered.",
-        "link": "/residential-home-repairs",
+        "link": "/residential-home-repairs/",
         "image": "/home-repair-services.jpg",
         "alt": "Residential Home Repairs"
     }
