@@ -43,37 +43,37 @@ url = "/flooring-installation/"
 name = "Hardwood Flooring"
 weight = 2
 identifier = "Hardwood Flooring"
-url = "/hardwood-flooring"
+url = "/hardwood-flooring/"
 parent = "Flooring"
 
 [[menu.main]]
 name = "Laminate Flooring"
 weight = 3
 identifier = "Laminate Flooring"
-url = "/laminate-flooring"
+url = "/laminate-flooring/"
 parent = "Flooring"
 
 [[menu.main]]
 name = "Vinyl Flooring"
 weight = 4
 identifier = "Vinyl Flooring"
-url = "/vinyl-flooring"
+url = "/vinyl-flooring/"
 parent = "Flooring"
 
 [[menu.main]]	
 name = "Home Remodels"
 weight = 5
 identifier = "Home Remodels"
-url = "/bathroom-and-kitchen-remodels"
+url = "/bathroom-and-kitchen-remodels/"
 
 [[menu.main]]
 name = "Home Repairs"
 weight = 6
 identifier = "Home Repairs"
-url = "/residential-home-repairs"
+url = "/residential-home-repairs/"
 
 [[menu.main]]
 name = "Contact Us"
 weight = 7
 identifier = "Contact Us"
-url = "/contact"
+url = "/contact/"
