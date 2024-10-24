@@ -22,20 +22,4 @@ We offer a wide range of residential home repair services to meet your needs. Ou
 ## Why Choose Us for Residential Home Repairs?
 When it comes to residential home repairs, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 14 years of experience providing residential home repair services in Roseburg, OR, and the surrounding areas.
 
-We specialize in providing home repair services to residential clients in Roseburg. We also serve the following areas:
-
-- Canyonville
-- Dillard
-- Glide
-- Green
-- Lookingglass
-- Melrose
-- Myrtle Creek
-- Oakland
-- Riddle
-- Roseburg
-- Sutherlin
-- Umpqua
-- Wilbur
-- Winchester
-- Winston
+We specialize in providing home repair services to residential clients in Roseburg.
