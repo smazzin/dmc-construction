@@ -1,7 +1,6 @@
 ---
 title: "Meet Duncan MC Construction: Your Trusted Home Repair & Remodeling Experts in Roseburg, OR"
 description: "Trusted throughout Douglas County, OR. With over 14 years of experience providing top-quality flooring & home remodeling services."
-date: 2019-01-28T14:06:41-08:00
 draft: false
 layout: single-about
 image: images/dmc-logo.png
