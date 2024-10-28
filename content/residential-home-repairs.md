@@ -15,7 +15,6 @@ Residential home repairs are essential for maintaining the value and integrity o
 
 ## Residential Home Repair Services
 We offer a wide range of residential home repair services to meet your needs. Our services include, but are not limited to:
-- New Deck Installation
 - New Windows & Doors
 - Replace a handrail or railing
 
