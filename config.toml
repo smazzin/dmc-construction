@@ -73,7 +73,13 @@ identifier = "Home Repairs"
 url = "/residential-home-repairs/"
 
 [[menu.main]]
-name = "Contact Us"
+name = "About Us"
 weight = 7
+identifier = "About Us"
+url = "/about/"
+
+[[menu.main]]
+name = "Contact Us"
+weight = 8
 identifier = "Contact Us"
 url = "/contact/"

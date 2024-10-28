@@ -4,21 +4,22 @@
 <!--Hero-->
 
 <!--Content-->
-<section class="container">
+<section class="container-small">
     <div class="grid m-5">
-
         <div class="col-6">
             <h1 class="text__center">{{.Params.heading}}</h1>
         </div>
-        <div class="col-2@m col-6 text__center">
+    </div>
+    <div class="grid m-5">
+        <div class="col-6 text__center">
             <img width="250" class="profile__pic" src="/{{ .Params.image }}" alt="{{ .Params.imageTitle }}">
             <small>{{ .Params.imageTitle }}</small>
         </div>
-        <div class="col-4@m col-6 about__dmc">
+    </div>
+    <div class="grid m-5">
+        <div class="col-6">
             {{ .Content }}
         </div>
-
-        
     </div>
 </section>
 
