@@ -22,46 +22,13 @@ We specialize in providing remodeling services to residential and commercial cli
 Below you will find some of our bathroom remodel projects. If you're looking for a reliable and experienced contractor for your bathroom and kitchen remodels, contact us today to schedule a free consultation.
 
 ### Bathroom Bathtub Remodel Before and After
-
-<div class="grid">
-<div class="col-3@m col-6">
-
 ![Bathtub Remodel Before](/images/bathtub-before.jpg "Bathtub Remodel Before")
-
-</div>
-<div class="col-3@m col-6">
-
 ![Bathtub Remodel Before](/images/bathtub-after.jpg "Bathtub Remodel After")
 
-</div>
-</div>
-
 ### Bathroom Vanity Remodel Before and After
-
-<div class="grid">
-<div class="col-3@m col-6">
-
 ![Bathroom Vanity Remodel Before](/images/bathroom-vanity-before.jpg "Bathroom Vanity Remodel Before")
-
-</div>
-<div class="col-3@m col-6">
-
 ![Bathroom Vanity Remodel After](/images/bathroom-vanity-after.jpg "Bathroom Vanity Remodel After")
 
-</div>
-</div>
-
 ### Bathroom Remodel Before and After
-
-<div class="grid">
-<div class="col-3@m col-6">
-
 ![Bathroom Remodel Before](/images/bathroom-before.jpg "Bathroom Remodel Before")
-
-</div>
-<div class="col-3@m col-6">
-
 ![Bathroom Remodel After](/images/bathroom-after.jpg "Bathroom Remodel After")
-
-</div>
-</div>
