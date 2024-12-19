@@ -19,7 +19,7 @@ When it comes to bathroom and kitchen remodels, it's essential to work with a pr
 
 We specialize in providing remodeling services to residential and commercial clients in Roseburg.
 
-Below you will find some of our recent bathroom remodel projects. If you're looking for a reliable and experienced contractor for your bathroom and kitchen remodels, contact us today to schedule a free consultation.
+Below you will find some of our bathroom remodel projects. If you're looking for a reliable and experienced contractor for your bathroom and kitchen remodels, contact us today to schedule a free consultation.
 
 ### Bathroom Bathtub Remodel Before and After
 <div class="grid">
