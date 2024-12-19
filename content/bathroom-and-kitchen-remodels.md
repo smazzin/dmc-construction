@@ -22,6 +22,7 @@ We specialize in providing remodeling services to residential and commercial cli
 Below you will find some of our bathroom remodel projects. If you're looking for a reliable and experienced contractor for your bathroom and kitchen remodels, contact us today to schedule a free consultation.
 
 ### Bathroom Bathtub Remodel Before and After
+
 <div class="grid">
 <div class="col-3@m col-6">
 
@@ -36,6 +37,7 @@ Below you will find some of our bathroom remodel projects. If you're looking for
 </div>
 
 ### Bathroom Vanity Remodel Before and After
+
 <div class="grid">
 <div class="col-3@m col-6">
 
@@ -50,6 +52,7 @@ Below you will find some of our bathroom remodel projects. If you're looking for
 </div>
 
 ### Bathroom Remodel Before and After
+
 <div class="grid">
 <div class="col-3@m col-6">
 
