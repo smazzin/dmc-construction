@@ -19,6 +19,6 @@ We offer a wide range of residential home repair services to meet your needs. Ou
 - Replace a handrail or railing
 
 ## Why Choose Us for Residential Home Repairs?
-When it comes to residential home repairs, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 14 years of experience providing residential home repair services in Roseburg, OR, and the surrounding areas.
+When it comes to residential home repairs, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 15 years of experience providing residential home repair services in Roseburg, OR, and the surrounding areas.
 
 We specialize in providing home repair services to residential clients in Roseburg.

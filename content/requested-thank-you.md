@@ -13,5 +13,5 @@ Thank you for requesting a quote from Duncan MC Construction, LLC. We will get b
 [Back to Home](/) 
 
 **Open Hours:** <br>
-Monday - Friday: 7:30 AM - 5:30 PM <br>
+Monday - Thursday: 7:30 AM - 5:30 PM <br>
 Saturday - Sunday: Closed

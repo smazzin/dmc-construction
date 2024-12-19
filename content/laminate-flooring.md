@@ -14,6 +14,6 @@ We provide professional laminate flooring installation services in Roseburg, OR,
 - **Versatility:** Laminate flooring comes in a wide range of styles, colors, and patterns, allowing you to create a custom look that complements your decor. Whether you prefer the look of hardwood, tile, or stone, there is a laminate flooring option to suit your taste and budget.
 
 ## Why Choose Us for Laminate Flooring Installation?
-When it comes to laminate flooring installation, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 14 years of experience installing laminate flooring in Roseburg, OR, and the surrounding areas.
+When it comes to laminate flooring installation, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 15 years of experience installing laminate flooring in Roseburg, OR, and the surrounding areas.
 
 We specialize in providing flooring installation services to residential and commercial clients in Roseburg.

@@ -15,6 +15,6 @@ Hardwood flooring is a versatile and durable flooring option that can add value 
 - **Maintenance:** Hardwood flooring is easy to clean and maintain, making it a practical choice for busy households. Regular sweeping and occasional mopping are all it takes to keep your hardwood floors looking beautiful.
 
 ## Why Choose Us for Hardwood Flooring Installation?
-When it comes to hardwood flooring installation, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 14 years of experience installing hardwood flooring in Roseburg, OR, and the surrounding areas.
+When it comes to hardwood flooring installation, it's essential to work with a professional contractor who has the skills and experience to get the job done right. We have over 15 years of experience installing hardwood flooring in Roseburg, OR, and the surrounding areas.
 
 We specialize in providing flooring installation services to residential and commercial clients in Roseburg.

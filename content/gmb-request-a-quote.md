@@ -10,5 +10,5 @@ sitemap_exclude: true
 Thank you for the opportunity to serve you. Continue filling out the Request a Quote form and we'll be in touch soon!
 
 **Open hours:** <br>
-Monday - Friday: 7:30 AM - 5:30 PM <br>
+Monday - Thursday: 7:30 AM - 5:30 PM <br>
 Saturday - Sunday: Closed

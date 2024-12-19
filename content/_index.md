@@ -1,10 +1,10 @@
 ---
-title: Professional Flooring & Home Remodeling Contractor in Roseburg, OR
-description: Duncan MC Construction offers over 14 years of experience offering professional flooring installation, residential remodels, and home repairs in Roseburg, OR.
+title: Expert Flooring & Home Remodeling Contractor in Roseburg, OR
+description: Duncan MC Construction offers over 15 years of experience offering professional flooring installation, home remodels, & repairs in Roseburg, OR.
 draft: false
 layout: single
 image: images/top-hero.jpg
 ---
 
-# FLOORING INSTALLATION, RESIDENTIAL REMODELS & HOME REPAIRS IN ROSEBURG, OR
-FOR OVER 14 YEARS
+# Flooring Installation, Home Remodels & Repairs In Roseburg, Or
+For Over 15 Years
