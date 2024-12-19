@@ -11,3 +11,5 @@ We provide a wide range of flooring installation services in Roseburg, OR, and t
 Flooring installation is a crucial step in enhancing the aesthetics and functionality of any space. Whether you're renovating your home or setting up a commercial establishment, professional flooring installation services can make a significant difference. These services involve the skilled installation of various types of flooring materials, such as hardwood, laminate, vinyl, or tile.
 
 We specialize in providing flooring installation services to residential and commercial clients in Roseburg.
+
+![Residential Flooring Installation](/images/home-flooring-installation.jpg "Residential Flooring Installation")
