@@ -1,3 +1,8 @@
+// make all images responsive
+img {
+    max-width: 100%;
+    height: auto;
+}
 //Buttons
 .btn {
     background-color: $green;
